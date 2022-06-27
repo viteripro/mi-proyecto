@@ -10,7 +10,7 @@ Este es mi primer proyecto en Github hecho con HTML y CSS
 * [Porfolio web](https://midominio.es/)
 
 ## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
+- [https://viteripro.github.io/mi-proyecto/](https://viteripro.github.io/mi-proyecto/)
 
 ## Instalación
 Este proyecto no necesita de instalación. Simmplemente abre la carpeta o haz click en el .html
