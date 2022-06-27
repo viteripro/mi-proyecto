@@ -1,0 +1,133 @@
+body{
+     background-image: radial-gradient(circle at -40% 6%,yellow,black)
+}
+
+.h1{
+	font-size: 40px;
+	text-align: center;
+	color: darkblue;
+}
+
+.window{
+	width: 50%;
+	height: 550px;
+	border: 7px inset red;
+	margin-left: auto;
+	margin-right: auto;
+	transition: all 2s;
+	box-shadow: 10px 13px 20px;
+}
+
+.glass{
+	width: 48%;
+	height: 263px;
+	background-color: rgba(162, 221, 209 , 1.0);
+	border: 5px solid red;
+	display: inline-block;
+	transition: all 2s;
+    position: relative;
+}
+
+
+.window:hover .glass{
+ background-color: rgba(29, 34, 81 , 0.9);
+ transition: all 2s;
+}
+
+
+.star,.star1,
+.star2,.star3,
+.star4,.star5,
+.star6,.star7{
+	width: 10px;
+	height: 10px;
+	background-color: rgba(162, 221, 209 , 1.0);
+	border-radius: 70px;
+	position: absolute;
+	transition: all 2s;
+}
+
+
+.star{
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+.star1{
+    top: 60px;
+    left: 100px;	
+}
+
+.star2{
+    top: 100px;
+    left: 100px;	
+}
+
+.star3{
+    top: 140px;
+    left: 1s40px;	
+}
+
+.star4{
+    top: 190px;
+    left: 190px;	
+}
+
+.star5{
+    top: 240px;
+    left: 80px;	
+}
+
+.star6{
+    margin-left: 230px;
+    top: 40px;
+    left: 40px;	
+}
+
+.star7{
+    margin-left: 270px;
+    top: 140px;
+    left: 40px;	
+}
+
+.window:hover .star{
+ background-color: yellow;
+ transition: all 2s;
+} 
+
+.window:hover .star1{
+ background-color: yellow;
+ transition: all 2s;
+} 
+
+.window:hover .star2{
+ background-color: yellow;
+ transition: all 2s;
+} 
+
+.window:hover .star3{
+ background-color: yellow;
+ transition: all 2s;
+} 
+
+.window:hover .star4{
+ background-color: yellow;
+ transition: all 2s;
+} 
+
+.window:hover .star5{
+ background-color: yellow;
+ transition: all 2s;
+} 
+
+.window:hover .star6{
+ background-color: yellow;
+ transition: all 2s;
+} 
+
+.window:hover .star7{
+ background-color: yellow;
+ transition: all 2s;
+} 
+
