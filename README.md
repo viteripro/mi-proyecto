@@ -6,7 +6,6 @@ Este es mi primer proyecto en Github hecho con HTML y CSS
 **Luis Viteri**
 
 * [LinkedIn](https://www.linkedin.com/in/luis-viteri-a47471243)
-* [Behance](https://www.behance.net/midominio)
 * [Porfolio web](https://midominio.es/)
 
 ## Ver ejemplo en vivo
