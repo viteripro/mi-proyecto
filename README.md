@@ -15,4 +15,4 @@ Este es mi primer proyecto en Github hecho con HTML y CSS
 Este proyecto no necesita de instalación. Simmplemente abre la carpeta o haz click en el .html
 
 ## Contratación
-Si quieres contratarme puedes escribirme a luisviteriec@gmail.com para consultas
+Si quieres contratarme puedes escribirme a gmail.com para consultas
